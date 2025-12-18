@@ -97,7 +97,7 @@ Aggregate functions (AVG, ROUND, ORDER BY)
 Analytical ordering
 Group-level and department-level analysis.
 # 📌 SQL Query File:
-[Download the SQL Script](Edtech_Advanced_SQL_Query.sql)
+[Download the SQL Script](Edtech_Advanced_SQL_Query.sql.sql)
 
 # 📌 Dataset File:
 [Download the Dataset](Data_set)
@@ -112,7 +112,7 @@ All problem statements are solved using advanced SQL and are included in the fil
 
 # 📄 Edtech_Advanced_SQL_Query.sql 
 
-[Download the SQL Script](Edtech_Advanced_SQL_Query.sql)
+[Download the SQL Script](Edtech_Advanced_SQL_Query.sql.sql)
 
 # This file contains:
 
