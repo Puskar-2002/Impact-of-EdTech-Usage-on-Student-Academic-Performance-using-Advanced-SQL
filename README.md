@@ -70,10 +70,6 @@ All tables are linked using student_id as the foreign key.
 
 # 7. Folder Structure (Very Important) :
 
-Advanced SQL Query/
-│
-|
-|---- Edtech_Advanced_SQL_Query.sql
 │
 |----dataset/
 │   ├── students.csv
@@ -86,6 +82,7 @@ Advanced SQL Query/
 │   ├── Query-output-2.png
 │   ├── Query-output-3.png
 │   └── Query-output-4.png
+|---- Edtech_Advanced_SQL_Query.sql
 |----README.md
 
 # 8. SQL Concepts Demonstrated :
@@ -99,8 +96,15 @@ GROUP BY vs PARTITION BY
 Aggregate functions (AVG, ROUND, ORDER BY)
 Analytical ordering
 Group-level and department-level analysis.
-# 📌 SQL Script File:
-Edtech_Advanced SQL Query.sql
+# 📌 SQL Query File:
+[Download the SQL Script](Edtech_Advanced_SQL_Query.sql)
+
+# 📌 Dataset File:
+[Download the Dataset](Data_set)
+
+# 📌 Query-Images File:
+[Download the Query-Images](Query-Images)
+
 
 # 9. SQL Queries and Analysis :
 
@@ -108,9 +112,7 @@ All problem statements are solved using advanced SQL and are included in the fil
 
 # 📄 Edtech_Advanced_SQL_Query.sql 
 
-
---------sql file link-----
-
+[Download the SQL Script](Edtech_Advanced_SQL_Query.sql)
 
 # This file contains:
 
@@ -121,23 +123,23 @@ Department-wise AI impact analysis
 
 
 # 10. Execution and Output :
-# Below are the outputs of the executed SQL queries:
+Below are the outputs of the executed SQL queries:
 
-🔹 Query 1 – Top 3 Performers in Attendance-->
+# 🔹 Query 1 – Top 3 Performers in Attendance-->
 
----output 1---
+![Query Output-1](/Query-Images/query_output_1_attendance.png)
 
-🔹 Query 2 – AI Platform with Highest GPA Improvement-->
+# 🔹 Query 2 – AI Platform with Highest GPA Improvement-->
 
---- output 2----
+![Query Output-2](/Query-Images/query_output_2_gpa_platform.png)
 
-🔹 Query 3 – EdTech Usage Hours vs Quiz Performance-->
+# 🔹 Query 3 – EdTech Usage Hours vs Quiz Performance-->
 
----output 3---
+![Query Output-3](/Query-Images/query_output_3_usage_vs_quiz.png)
 
-🔹 Query 4 – Departments Benefited Most from AI Adoption-->
+# 🔹 Query 4 – Departments Benefited Most from AI Adoption-->
 
----output 4---
+![Query Output-4](/Query-Images/query_output_4_department_gpa.png)
 
 # 📌 If images do not load:
 
@@ -157,12 +159,12 @@ These insights demonstrate how SQL-based analytics can support data-driven educa
 
 # 12. Technology Stack :
 
-# Database: MySQL
-# Language: SQL (Advanced SQL)
-# Data Format: CSV
-# Tools: MySQL Workbench
-# Version Control: Git & GitHub
-# Domain: EdTech / AI Adoption Analytics
+Database: MySQL
+Language: SQL (Advanced SQL)
+Data Format: CSV
+Tools: MySQL Workbench
+Version Control: Git & GitHub
+Domain: EdTech / AI Adoption Analytics
 
 # 13. How to Run the Project :
 
@@ -173,9 +175,11 @@ These insights demonstrate how SQL-based analytics can support data-driven educa
 
 # 14 Project Usage :
 
-
-
-
+This project can be used for:
+SQL technical interviews
+Academic lab assessments and evaluations
+EdTech analytics demonstrations
+Data analytics portfolio on GitHub
 
 # 15. Disclaimer :
 
