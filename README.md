@@ -129,19 +129,19 @@ Below are the outputs of the executed SQL queries:
 
 # 🔹 Query 1 – Top 3 Performers in Attendance-->
 
-![Query Output-1](/Query-Images/query_output_1_attendance.png)
+![Query Output-1](/Query-Images/query_output_1_attendance.png.png)
 
 # 🔹 Query 2 – AI Platform with Highest GPA Improvement-->
 
-![Query Output-2](/Query-Images/query_output_2_gpa_platform.png)
+![Query Output-2](/Query-Images/query_output_2_gpa_platform.png.png)
 
 # 🔹 Query 3 – EdTech Usage Hours vs Quiz Performance-->
 
-![Query Output-3](/Query-Images/query_output_3_usage_vs_quiz.png)
+![Query Output-3](/Query-Images/query_output_3_usage_vs_quiz.png.png)
 
 # 🔹 Query 4 – Departments Benefited Most from AI Adoption-->
 
-![Query Output-4](/Query-Images/query_output_4_department_gpa.png)
+![Query Output-4](/Query-Images/query_output_4_department_gpa.png.png)
 
 # 📌 If images do not load:
 
