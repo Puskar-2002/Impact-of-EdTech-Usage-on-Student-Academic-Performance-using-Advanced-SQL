@@ -99,11 +99,13 @@ Group-level and department-level analysis.
 # 📌 SQL Query File:
 [Download the SQL Script](Edtech_Advanced_SQL_Query.sql.sql)
 
-# 📌 Dataset File:
-[Download the Data_set](Data_set)
-
 # 📌 Query-Images File:
 [Download the Query-Images](Query-Images)
+
+
+# 📌 Dataset Folder:  
+[View the Dataset Files](Data_Set/)
+
 
 
 # 9. SQL Queries and Analysis :
