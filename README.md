@@ -100,7 +100,7 @@ Group-level and department-level analysis.
 [Download the SQL Script](Edtech_Advanced_SQL_Query.sql.sql)
 
 # 📌 Dataset File:
-[Download the Dataset](Data_set)
+[Download the Data_set](Data_set)
 
 # 📌 Query-Images File:
 [Download the Query-Images](Query-Images)
